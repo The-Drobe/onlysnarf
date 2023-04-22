@@ -42,7 +42,7 @@ ELEMENTS = [
 
     {
         "name": "loginCheck",
-        "classes": ["b-make-post__streaming-link"],
+        "classes": ["b-make-post"],
         "text": [],
         "id": []
     },
